@@ -1,4 +1,5 @@
-Detecção de Gestos com Automação de Aplicativos
+# Detecção de Gestos com Automação de Aplicativos
+
 
 🚀 Descrição do Projeto
 Este projeto é um sistema de detecção de gestos baseado em OpenCV, que permite controlar aplicativos do Windows utilizando gestos com as mãos. O sistema reconhece diferentes gestos e executa comandos específicos, como abrir o Microsoft Word, Excel, PowerPoint, entre outros.
@@ -36,6 +37,7 @@ Calibração da Câmera: Melhore a iluminação e a resolução da câmera para 
 Filtragem de Ruído: Melhore a lógica de filtragem para ignorar pontos ruidosos e contar apenas os dedos visíveis.
 Interface de Usuário: Adicione feedback visual e mensagens de erro mais claras.
 Confirmação de Gestos: Adicione uma etapa de confirmação antes de executar comandos para evitar a execução acidental.
+
 🔄 Contribuindo
 Se você deseja contribuir para o projeto, por favor, siga estes passos:
 
